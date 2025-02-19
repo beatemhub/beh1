@@ -510,6 +510,7 @@ p2 {
 
   .video-wrapper {
     padding: 0px;
+    width: 100vw;
   }
 
   #vid-wrapper {
